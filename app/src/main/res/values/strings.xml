@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Investidor Analyzer</string>
+    <string name="about">Metodologia adaptada do questionário do Banco Paulista"</string>
+    <string name="title_text">Analisador de Perfil de Investidores</string>
+    <string name="hint_text">digite seu nome...</string>
+    <string name="bt_text">Iniciar Analise</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
